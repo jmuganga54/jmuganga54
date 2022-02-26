@@ -1,16 +1,15 @@
-### Hi there 👋
+### Here is What I'm working On! 👋
 
-<!--
-**jmuganga54/jmuganga54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Data Management and Cleaning
+- 🌱 I’m currently learning ... Reactjs and Javascript
+- 👯 I’m looking to collaborate on ... Reactjs
+- 🤔 I’m looking for help with ... Python and Django
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [Email](jmuganga544@gmail.com)
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I have worked in marketing for 2 years
+
