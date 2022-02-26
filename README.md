@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Reactjs
 - 🤔 I’m looking for help with ... Python and Django
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](jmuganga544@gmail.com)
+- 📫 How to reach me: ... [Check this](https://jmuganga54.github.io/Personal-Site/)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I have worked in marketing for 2 years
 
