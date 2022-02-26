@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Data Management and Cleaning
+- 🔭 I’m currently working on ... Progressive Web Application
 - 🌱 I’m currently learning ... Reactjs and Javascript
 - 👯 I’m looking to collaborate on ... Reactjs
 - 🤔 I’m looking for help with ... Python and Django
