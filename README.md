@@ -27,7 +27,6 @@ My journey started in graphic design and marketing, and now I focus on turning c
 
 ## 💬 Let’s Connect  
 - Ask me about **data management**, **ODK**, and **research workflows**  
-- 📫 Reach me through my [Personal Website](https://jmuganga54.github.io/Personal-Site/)  
 
 ---
 
