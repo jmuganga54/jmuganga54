@@ -1,9 +1,10 @@
 # 👋 Hey there, I am Joseph Muganga  
 
 I like to call myself a Health Data Scientist on a journey.  
+
 I started out managing data for research projects, building electronic forms, and making sure every dataset was clean and trustworthy. Along the way, I found joy in showing others how to use digital tools like Open Data Kit, and it opened my eyes to how powerful good data can be.  
 
-These days, I spend more time digging into health datasets with Python and R, trying to make sense of messy numbers and turn them into stories that matter. For me, data is not just about charts and models — it is about guiding real decisions, shaping better health policies, and finding new ways to tackle challenges that affect people’s lives.  
+These days, I spend more time digging into health datasets with Python and R, trying to make sense of messy numbers and turn them into stories that matter. For me, data is not just about charts and models, it is about guiding real decisions, shaping better health policies, and finding new ways to tackle challenges that affect people’s lives.  
 
 ---
 
@@ -26,4 +27,4 @@ I enjoy working with people who share the same passion for data and health. That
 
 ---
 
-⚡ **Fun fact:** I used to work in creative fields before diving into health data, so I bring a bit of design thinking into everything I do. And yes, I love mentoring others who are just starting their own data journey 🚀  
+⚡ **Fun fact:** I used to work in creative fields before diving into health data, so I bring a bit of design thinking into everything I do. And yes, I love mentoring others who are just starting their own data journey.  
