@@ -16,9 +16,10 @@ These days, I spend more time digging into health datasets with Python and R, tr
 ---
 
 ## 🧭 What excites me  
-- **Open Digital Tools for Health** — I am excited about helping to build and promote user friendly digital systems that support health research, improve data collection and analysis, and contribute to solving real world health challenges  
 - **Infectious Disease Modelling** — because understanding how diseases spread is the first step to stopping them  
-- **Pharmacogenetics Modelling** — because our genes tell part of the story of how treatments work  
+- **Pharmacogenetics Modelling** — because our genes tell part of the story of how treatments work
+- **Open Digital Tools for Health** — I am excited about building user friendly systems that make health research, data collection, and analysis more effective in solving real world challenges  
+
 
 ---
 
