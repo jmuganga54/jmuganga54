@@ -1,17 +1,34 @@
-### Here is What I'm working On! 👋
+# 👋 Hi, I’m Joseph Muganga  
 
+I’m a Data Science student passionate about applying data-driven approaches to real-world health challenges.  
+My journey started in graphic design and marketing, and now I focus on turning complex datasets into meaningful insights.  
 
+---
 
-Here are some ideas to get you started:
+## 🔭 Current Focus  
+- Working on Data Science projects using **Python, R, and real-world health datasets**  
+- Exploring **Machine Learning, Statistics, and Advanced Data Visualization**  
+- Building and supporting **digital tools for research** (ODK, electronic data capture, etc.)  
 
-- 🔭 I’m currently working on ... Data Science projects with Python, R, and real-world health datasets  
-- 🌱 I’m currently learning ... Machine Learning, Statistics, and Advanced Data Visualization  
-- 👯 I’m looking to collaborate on ... Data-driven research and open-source projects in Health Data Science  
-- 🤔 I’m looking for help with ... Deep Learning and Cloud-based Data Solutions  
-- 💬 Ask me about ... Data management, ODK, and building digital tools for research  
-- 📫 How to reach me: ... [Check this](https://jmuganga54.github.io/Personal-Site/)  
-- 😄 Pronouns: ... He/Him  
-- ⚡ Fun fact: ... I transitioned from graphic design and marketing into data science, and I enjoy teaching others along the way 🚀  
-- 🧭 Research Interests: ... Infectious Disease Modelling and Pharmacogenetics  
+---
 
+## 🧭 Research Interests  
+- **Infectious Disease Modelling**  
+- **Pharmacogenetics**  
+- **Health Data Science for global health**  
 
+---
+
+## 🤝 Collaboration & Learning  
+- Looking to collaborate on **open-source projects** and **data-driven research**  
+- Seeking mentorship and support in **Deep Learning** and **Cloud-based Data Solutions**  
+
+---
+
+## 💬 Let’s Connect  
+- Ask me about **data management**, **ODK**, and **research workflows**  
+- 📫 Reach me through my [Personal Website](https://jmuganga54.github.io/Personal-Site/)  
+
+---
+
+⚡ **Fun fact:** I transitioned from graphic design and marketing into data science — and I enjoy mentoring others along the way 🚀  
