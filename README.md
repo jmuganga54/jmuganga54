@@ -1,6 +1,6 @@
 # 👋 Hey there, I am Joseph Muganga  
 
-I like to call myself a Health Data Scientist on a journey.  
+I often describe myself as an Evidence Architect, shaping data into decisions.  
 
 I started out managing data for research projects, building electronic forms, and making sure every dataset was clean and trustworthy. Along the way, I found joy in showing others how to use digital tools for data collection like [Open Data Kit](https://github.com/getodk), and it opened my eyes to how powerful good data can be.  
 
